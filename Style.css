@@ -1,0 +1,27 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 20px;}
+    
+#banner{
+    background-color: #ffc901;
+    color: white;
+}
+#banner .banner-txt h2{
+    font-size: 45px;
+}
+#banner .banner-txt .btn-primary{
+    color: white;
+    background-color: #00adab;
+    border-color: #00adab;
+}
+#banner .banner-txt .btn-primary :hover{
+    color: #00adab;
+    background-color: transparent;
+    border-color: #00adab;}
+    
+#banner .banner-txt.btn{
+    padding: 9px 30px;
+    font-size: 20px;
+}

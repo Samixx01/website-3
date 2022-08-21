@@ -1,0 +1,51 @@
+body {
+    font-family: 'Maven Pro', sans-serif;
+}
+p {
+    font-size: 20px;
+}
+/* Banner style */
+#banner {
+    background-color: #ffc901;
+    color: #ffffff;
+    padding: 80px 0;
+}
+#banner .banner-text h2 {
+    font-size: 45px;
+}
+#banner .banner-text .btn-primary {
+    color: #fff;
+    background-color: #00adab;
+    border-color: #00adab;
+}
+#banner .banner-text .btn-primary:hover {
+    color: #00adab;
+    background-color: transparent;
+    border-color: #00adab;
+}
+#banner .banner-text .btn-primary:hover {
+    color: #00adab;
+    background-color: transparent;
+    border-color: #00adab;
+}
+#banner .banner-text .btn-primary:focus {
+    box-shadow: none;
+}
+#banner .banner-text .btn {
+    padding: 9px 30px;
+    font-size: 20px;
+}
+#banner .banner-text .btn-info {
+    color: #00adab;
+    border-color: #00adab;
+}
+#banner .banner-text .btn-info:hover {
+    color: #ffffff;
+    border-color: #00adab;
+}
+#banner .banner-text .bg-transparent:hover {
+    background-color: #00adab!important;
+}
+#banner .banner-text .btn-info:focus {
+    box-shadow: none;
+}
